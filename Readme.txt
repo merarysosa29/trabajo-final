@@ -13,8 +13,8 @@ https://sosa12.fwh.is/INAC_Activos/Index.php
 2. CREDENCIALES DE ACCESO
 
 ADMINISTRADOR
-Usuario: [Escribir usuario de prueba]
-Contraseña: [Escribir contraseña de prueba]
+Usuario: [Admin]
+Contraseña: [Admin]
 
 EDITOR
 Usuario: [Escribir usuario de prueba]
